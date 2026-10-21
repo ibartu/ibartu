@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Bartu 👋
 
-<!--
-**ibartu/ibartu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IAM / IGA Engineer | Microsoft Entra ID | Identity Security
 
-Here are some ideas to get you started:
+I'm an Identity and Access Management engineer with 9+ years of experience designing, developing, and operating enterprise IAM solutions in regulated banking environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes identity lifecycle automation, access governance, Active Directory, enterprise integrations, and custom IAM development.
+
+I'm currently expanding my hands-on expertise in **Microsoft Entra ID, cloud identity security, and Zero Trust architectures**.
+
+## 🔐 Areas of Expertise
+
+- **Identity & Access Management:** JML, Provisioning, Deprovisioning, RBAC
+- **Identity Governance:** Access Reviews, Access Requests, Entitlement Management
+- **Hybrid Identity:** Active Directory, Microsoft Entra ID
+- **Identity Security:** MFA, Conditional Access, PIM, Zero Trust
+- **Development & Automation:** C#, .NET, PowerShell, REST APIs, Microsoft Graph, SQL
+
+## 🚀 Featured Project
+
+### [Enterprise Entra ID | IAM & Identity Security](https://github.com/ibartu/enterprise-entra-iam-portfolio)
+
+A hands-on portfolio exploring enterprise identity architecture, identity governance, security controls, and automation through realistic business scenarios.
+
+**Status:** Work in Progress
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-b-469a484a)
+- [Entra ID Portfolio](https://github.com/ibartu/enterprise-entra-iam-portfolio)
